@@ -44,3 +44,5 @@ gem 'rails_12factor', group: :production
 gem 'dotenv-rails', :groups => [:development, :test]
 
 gem 'bootstrap-sass', '3.2.0.2'
+
+gem 'active_shipping', '~> 0.12.4'
